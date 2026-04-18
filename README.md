@@ -2,22 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There,%20I'm%20Faizul%20Mushofa!&fontSize=40&animation=fadeIn" alt="Header Banner" width="100%" />
 </div>
 
-<h3 align="center">IT Student | Aspiring Backend Engineer & Infrastructure Design</h3>
+<h3 align="center">IT Student | Aspiring Backend Engineer & Infrastructure Enthusiast</h3>
 
 <div align="center">
   <a href="https://github.com/faizulmushofa">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Diving+into+Backend+Systems;Exploring+System+Architecture;Passionate+about+Infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+Backend+Systems;Exploring+System+Architecture;Learning+Infrastructure+and+DevOps" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I’m an **IT Student** currently diving deep into **Backend Systems** and **Infrastructure for System Architecture Design**.
-- 💡 My current tech focus revolves around building robust server-side architectures using **Java (Spring Boot)** and **Python (FastAPI)**.
-- 👯 I’m highly enthusiastic and **very open to collaborating** on open-source projects or exciting tech ventures.
-- 🧠 **Strengths:** Fast Learner, Problem Solving, Team Work, and Time Management.
-- 🌱 Currently learning and exploring: **Docker**, **Advanced System Design**, and refining my skills in terminal environments.
+- 🎓 I’m an **IT Student** focused on learning and building strong **Backend Systems**.
+- 💡 My current tech focus is developing backend applications using **Java (Spring Boot)** and **Python (FastAPI)**.
+- 🌱 Currently exploring **Docker**, **System Design**, and improving terminal workflow.
+- 🤝 Open to collaboration on meaningful projects and open-source work.
 
 ---
 
@@ -53,7 +52,9 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizulmushofa&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizulmushofa&theme=radium&hide_border=true&v=2" alt="GitHub Streak" width="48%" />
 </div>
+
 <br/>
+
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizulmushofa&layout=compact&theme=radium&hide_border=true&langs_count=8&v=2" alt="Top Languages" width="50%" />
 </div>
@@ -61,7 +62,7 @@
 ---
 
 <div align="center">
-  <strong>🐍 My GitHub Contribution Snake </strong><br/><br/>
+  <strong>🐍 My GitHub Contribution Snake</strong><br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake.svg">
@@ -70,6 +71,7 @@
 </div>
 
 ---
+
 <div align="center">
   <i>Let's connect and build something awesome together! 🚀</i>
 </div>
