@@ -28,6 +28,8 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Infrastructure, Build Tools & Databases:**<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -35,6 +37,7 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Others:**<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,23 +50,15 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizulmushofa&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizulmushofa&theme=radium&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizulmushofa&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizulmushofa&theme=radium&hide_border=true&v=2" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizulmushofa&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizulmushofa&layout=compact&theme=radium&hide_border=true&langs_count=8&v=2" alt="Top Languages" width="50%" />
 </div>
 
 ---
-
-### 📊 Real-time GitHub Activity & Contributions
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizulmushofa&bg_color=0d1117&color=2196F3&line=2196F3&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</div>
-
-<br/>
 
 <div align="center">
   <strong>🐍 My GitHub Contribution Snake </strong><br/><br/>
