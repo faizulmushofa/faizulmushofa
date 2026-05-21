@@ -1,77 +1,177 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There,%20I'm%20Faizul%20Mushofa!&fontSize=40&animation=fadeIn" alt="Header Banner" width="100%" />
-</div>
 
-<h3 align="center">IT Student | Aspiring Backend Engineer & Infrastructure Enthusiast</h3>
-
-<div align="center">
-  <a href="https://github.com/faizulmushofa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+Backend+Systems;Exploring+System+Architecture;Learning+Infrastructure+and+DevOps" alt="Typing SVG" />
-  </a>
-</div>
-
----
-
-### 👨‍💻 About Me
-- 🎓 I’m an **IT Student** focused on learning and building strong **Backend Systems**.
-- 💡 My current tech focus is developing backend applications using **Java (Spring Boot)** and **Python (FastAPI)**.
-- 🌱 Currently exploring **Docker**, **System Design**, and improving terminal workflow.
-- 🤝 Open to collaboration on meaningful projects and open-source work.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks:**<br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Infrastructure, Build Tools & Databases:**<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Others:**<br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizulmushofa&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizulmushofa&theme=radium&hide_border=true&v=2" alt="GitHub Streak" width="48%" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Faizul%20Workspace&fontSize=50&fontColor=E5E7EB&color=0:111827,50:1F2937,100:374151"/>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizulmushofa&layout=compact&theme=radium&hide_border=true&langs_count=8&v=2" alt="Top Languages" width="50%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=D1D5DB&center=true&vCenter=true&width=800&lines=Launching+Developer+Workspace...;Opening+Spring+Boot+Projects...;Connecting+to+GitHub...;Ready+to+Build." />
+
 </div>
 
 ---
 
+# 🪟 Desktop
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+```powershell
+PS C:\Users\Faizul> winfetch
+
+─────────────── SYSTEM ───────────────
+
+User        : Faizul Mushofa
+Role        : IT Student
+Focus       : Backend Development
+Learning    : Spring Boot & FastAPI
+Editor      : IntelliJ IDEA / VS Code
+Status      : Building projects...
+
+──────────────────────────────────────
+```
+
+</td>
+
+<td width="35%" valign="top">
+
 <div align="center">
-  <strong>🐍 My GitHub Contribution Snake</strong><br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📂 Explorer
+
+```text
+📦 FaizulWorkspace
+│
+├── 📁 BackendProjects
+│   ├── 📄 auth-api
+│   ├── 📄 upload-service
+│   └── 📄 jwt-practice
+│
+├── 📁 Learning
+│   ├── 📄 spring-boot
+│   ├── 📄 fastapi
+│   ├── 📄 system-design
+│   └── 📄 clean-architecture
+│
+└── 📁 SideProjects
+```
+
+---
+
+# ⚙️ Installed Apps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,c,cpp,javascript&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,maven,gradle,postman&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,github&theme=dark"/>
+
 </div>
 
 ---
 
+# 📊 Task Manager
+
 <div align="center">
-  <i>Let's connect and build something awesome together! 🚀</i>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=faizulmushofa&show_icons=true&theme=transparent&hide_border=true&title_color=F3F4F6&text_color=9CA3AF&icon_color=D1D5DB"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizulmushofa&theme=transparent&hide_border=true&ring=E5E7EB&fire=9CA3AF&currStreakLabel=F3F4F6"/>
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizulmushofa&layout=compact&theme=transparent&hide_border=true&title_color=F3F4F6&text_color=9CA3AF"/>
+
+</div>
+
+---
+
+# 🐍 Background Process
+
+<div align="center">
+
+```powershell
+PS C:\Users\Faizul> Get-Process contributions
+
+Status : Running
+Mode   : Continuous
+```
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+# 💻 Developer Console
+
+```powershell
+Windows PowerShell
+Copyright (C) Microsoft Corporation.
+
+PS C:\Users\Faizul> python developer.py
+
+Initializing developer profile...
+
+[✓] Loading Java modules...
+[✓] Loading Spring Boot environment...
+[✓] Connecting to GitHub...
+[✓] Starting learning session...
+
+--------------------------------------------
+
+class Faizul:
+    mode = "learning"
+    stack = ["Spring Boot", "FastAPI"]
+
+    def today(self):
+        return [
+            "build projects",
+            "fix bugs",
+            "learn something new"
+        ]
+
+--------------------------------------------
+
+Session started successfully.
+Happy coding :)
+```
+
+---
+
+<div align="center">
+
+```powershell
+PS C:\Users\Faizul> shutdown /s /t 0
+
+Saving workspace...
+Closing applications...
+See you next commit.
+```
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:111827,50:1F2937,100:374151"/>
+
 </div>
