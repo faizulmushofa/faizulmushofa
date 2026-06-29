@@ -72,15 +72,19 @@ Status      : Building projects...
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,c,cpp,javascript&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,c,cpp,cmake,java,spring&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,maven,gradle,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=reactivex,python,js,ts,nestjs,fastapi,mysql,postgres&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=sqlite,oracle,maven,gradle,git,github,githubactions,cloudflare&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=tailscale,docker,grpc,k6,postman,vscode,idea&theme=dark"/>
 
 </div>
 
