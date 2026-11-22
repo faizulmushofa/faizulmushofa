@@ -2,468 +2,298 @@
 
 <br>
 
-<p>
-<sub>システム思考&nbsp;&nbsp;·&nbsp;&nbsp;SYSTEM THINKING</sub>
-</p>
-
-<h1>Faizul</h1>
-
-<p>
-<b>Backend Developer · Software Engineering Student</b>
-</p>
-
-<p>
-<i>Understanding the system before writing the code.</i>
-</p>
-
-<br>
-
-<img
-src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2600&pause=850&color=00658D&center=true&vCenter=true&width=720&lines=Software+Engineering+Student;Backend+Developer+in+progress;Java+%2B+Spring+Boot;Thinking+in+systems;Building+with+curiosity"
-alt="Typing animation"
+<img 
+  src="https://media.tenor.com/LXDfG4X1QEkAAAAC/one-piece-luffy.gif" 
+  width="600" 
+  style="border-radius: 12px;"
+  alt="Luffy One Piece Sailing" 
 />
 
 <br><br>
 
-<table width="80%">
-<tr>
-
-<td align="center">
-
-<sub>01</sub>
-
-<h3>THINK</h3>
-
-<small>Understand the problem</small>
-
-</td>
-
-<td align="center">
-
-<sub>02</sub>
-
-<h3>STRUCTURE</h3>
-
-<small>Map the complexity</small>
-
-</td>
-
-<td align="center">
-
-<sub>03</sub>
-
-<h3>BUILD</h3>
-
-<small>Turn ideas into systems</small>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
 <p>
-考える&nbsp;&nbsp;·&nbsp;&nbsp;設計する&nbsp;&nbsp;·&nbsp;&nbsp;作る
+<sub>新世界 · THE GRAND LINE OF SOFTWARE ENGINEERING</sub>
 </p>
 
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="58%" valign="middle">
+# ☠️ FAIZUL MUSHOFA
 
 <p>
-<sub>01 / PROFILE</sub>
-</p>
-
-<h1>Hi, I'm Faizul.</h1>
-
-<p>
-I really enjoy understanding how things work — how systems communicate with each other, how data moves and gets processed, how services are built to operate and remain reliable under extreme conditions, and why a system is designed the way it is.
+<b>Backend Architect in the Making · IoT Explorer · Systems Engineer</b>
 </p>
 
 <p>
-My main environment is <b>Java + Spring Boot</b>, because both have taught me how to organize code in a clean, structured, and disciplined way. I also work with <b>FastAPI</b> and <b>TypeScript</b>, using each of them when they fit the problem and the system I'm building.
-</p>
-
-<p>
-I also like combining <b>AI with software systems</b> to create smarter applications, using it where it can genuinely improve the capabilities of the system rather than simply adding AI for the sake of it.
+<i>"Inherited will, the flow of time, and the dreams of engineers — they will never cease."</i>
 </p>
 
 <br>
 
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-<sub>ROLE</sub>
-
-<h3>Backend Developer</h3>
-
-</td>
-
-<td width="50%" valign="top">
-
-<sub>MINDSET</sub>
-
-<h3>System Thinker</h3>
-
-</td>
-
-</tr>
-</table>
-
-</td>
-
-<td width="42%" align="center" valign="middle">
-
-<a href="https://giphy.com/gifs/meme-konosuba-kono-subarashi-sekai-ni-shukufuku-wo-7AfTSxCfNaehyIJJNb">
-
-<img
-src="https://media1.giphy.com/media/7AfTSxCfNaehyIJJNb/giphy.gif"
-width="285"
-alt="Megumin from KonoSuba"
-/>
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=800&color=0284C7&center=true&vCenter=true&width=680&lines=Sailing+the+Grand+Line+of+Backend+Systems;Java+%2B+Spring+Boot+Ecosystem;Reactive+Microservices+%26+gRPC+Pipelines;Bridging+Physical+Sensors+with+Cloud+IoT;Zero+Framework+Magic+%E2%80%94+Deep+Protocol+Mastery" alt="Typing headline" />
 </a>
 
 <br><br>
 
-<sub>探索 · Explore</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://img.shields.io/badge/FOCUS-BACKEND-00658D?style=flat-square&labelColor=EAF8FF"
-alt="Backend"
-/>
-
-<img
-src="https://img.shields.io/badge/MAIN-JAVA-00AEEF?style=flat-square&labelColor=EAF8FF"
-alt="Java"
-/>
-
-<img
-src="https://img.shields.io/badge/MINDSET-SYSTEMS-C39F27?style=flat-square&labelColor=FFF9E5"
-alt="Systems"
-/>
-
-</div>
-
-<br><br>
-
----
-
-<div align="center">
-
-<h2>Technology <sub>｜ 技術</sub></h2>
-
 <p>
-<i>Tools are instruments. Understanding is the real skill.</i>
+  <img src="https://img.shields.io/badge/SHIPWRIGHT-BACKEND%20ARCHITECT-0284C7?style=for-the-badge&logo=java&logoColor=white" alt="Backend Focus" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HAKI-SPRING%20%2B%20CONCURRENCY-DC2626?style=for-the-badge&logo=springboot&logoColor=white" alt="Haki" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LOG%20POSE-IOT%20%26%20TELEMETRY-059669?style=for-the-badge&logo=arduino&logoColor=white" alt="Log Pose" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/BOUNTY-HIGH%20CONCURRENCY-D97706?style=for-the-badge" alt="Bounty" />
 </p>
 
 <br>
 
-<img
-src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,nestjs,typescript,react,nextjs,postgres,mysql,sqlite,docker,linux,git,github,githubactions,cloudflare&perline=9"
-alt="Technology stack"
-/>
-
 </div>
-
-<br><br>
 
 ---
 
-<div align="center">
+### 🗺️ Logbook & Compass
 
-<h2>How I Think <sub>｜ 思考</sub></h2>
+* ⚓ **The Mission**: Constructing backend architectures that never capsize under heavy load, paired with real-time hardware telemetry.
+* ⚡ **Main Devil Fruit**: **Java & Spring Boot** (WebFlux, gRPC, Concurrency) — prioritizing structural discipline over easy shortcuts.
+* 🧭 **The Compass**: Bridging physical microcontrollers (**ESP32, MQTT**) with web interfaces (**TypeScript, React, Next.js**).
+* 📜 **Pirate Creed**: *Understand the network protocol, structure the data model, optimize the bottlenecks, then sail.*
 
-<p>
-<i>The process matters as much as the implementation.</i>
-</p>
+---
 
-</div>
-
-<br>
+### 🔨 Currently Building
 
 <table width="100%">
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<div align="center">
+<p><b>Milestone</b>: <img src="https://progress-bar.xyz/40/" alt="40%" valign="middle" /></p>
 
-<h1><font color="#00AEEF">01</font></h1>
-
-<h3>Understand</h3>
-
-</div>
-
-<p>
-Start with the problem.
-Understand requirements, constraints,
-data and relationships before writing code.
-</p>
+<a href="https://github.com/faizulmushofa/spring-boot-leaderboard">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=spring-boot-leaderboard&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="spring-boot-leaderboard" 
+  />
+</a>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<div align="center">
+<p><b>Milestone</b>: <img src="https://progress-bar.xyz/20/" alt="20%" valign="middle" /></p>
 
-<h1><font color="#00AEEF">02</font></h1>
-
-<h3>Structure</h3>
-
-</div>
-
-<p>
-Break complexity into smaller pieces:
-services, responsibilities, boundaries,
-dependencies and flows.
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-<h1><font color="#C39F27">03</font></h1>
-
-<h3>Build</h3>
-
-</div>
-
-<p>
-Turn the model into software,
-then refine it when reality proves
-some assumptions wrong.
-</p>
+<a href="https://github.com/faizulmushofa/mamori-app">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=mamori-app&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="mamori-app" 
+  />
+</a>
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-<img
-src="https://media.tenor.com/jhwRDQj29pcAAAAC/haikyuu-anime.gif"
-width="500"
-alt="Animated anime scene"
-/>
-
-<br><br>
-
-<sub>挑戦 · Keep experimenting</sub>
-
-</div>
-
-<br><br>
-
 ---
+
+### 🚀 Shipped & Conquered
 
 <table width="100%">
 <tr>
 
-<td width="60%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<p>
-<sub>02 / CURRENT PATH · 現在地</sub>
-</p>
+<p><b>Status</b>: <img src="https://progress-bar.xyz/100/" alt="100%" valign="middle" /></p>
 
-<h2>Where I'm investing my time</h2>
-
-<br>
-
-<table width="100%">
-
-<tr>
-<td><b>Java & Spring Boot</b></td>
-<td align="right"><font color="#00658D">PRIMARY</font></td>
-</tr>
-
-<tr>
-<td><b>System Design</b></td>
-<td align="right"><font color="#00658D">LEARNING</font></td>
-</tr>
-
-<tr>
-<td><b>Application Security</b></td>
-<td align="right"><font color="#00658D">LEARNING</font></td>
-</tr>
-
-<tr>
-<td><b>Docker & CI/CD</b></td>
-<td align="right"><font color="#00658D">LEARNING</font></td>
-</tr>
-
-<tr>
-<td><b>Distributed Systems</b></td>
-<td align="right"><font color="#C39F27">EXPLORING</font></td>
-</tr>
-
-</table>
+<a href="https://github.com/faizulmushofa/vps-personal-BE">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=vps-personal-BE&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="vps-personal-BE" 
+  />
+</a>
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
-<img
-src="https://media.tenor.com/aLuM4E3ah4AAAAAC/anime-gif-anime.gif"
-width="245"
-alt="Animated anime atmosphere"
-/>
+<p><b>Status</b>: <img src="https://progress-bar.xyz/100/" alt="100%" valign="middle" /></p>
 
-<br><br>
-
-<sub>旅 · The journey continues</sub>
+<a href="https://github.com/faizulmushofa/isekai-skill-engine-backend">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=isekai-skill-engine-backend&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="isekai-skill-engine-backend" 
+  />
+</a>
 
 </td>
 
 </tr>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<p><b>Status</b>: <img src="https://progress-bar.xyz/100/" alt="100%" valign="middle" /></p>
+
+<a href="https://github.com/faizulmushofa/kamus-fx">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=kamus-fx&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="kamus-fx" 
+  />
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<p><b>Status</b>: <img src="https://progress-bar.xyz/100/" alt="100%" valign="middle" /></p>
+
+<a href="https://github.com/faizulmushofa/atlas-launcher">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=atlas-launcher&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="atlas-launcher" 
+  />
+</a>
+
+</td>
+
+</tr>
 </table>
 
-<br><br>
-
 ---
 
-<div align="center">
+### 📚 You can see my learning at
 
-<h2>GitHub Activity <sub>｜ 軌跡</sub></h2>
-
-<p>
-<i>A visual trace of experiments, learning and contributions.</i>
-</p>
-
-<br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=faizulmushofa&bg_color=ffffff&color=00658D&line=00AEEF&point=C39F27&area=true&hide_border=true&custom_title=Faizul%27s%20Development%20Activity"
-width="96%"
-alt="GitHub activity"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<p>
-<sub>CONTRIBUTION TRAIL · 軌跡</sub>
-</p>
-
-<p>
-<i>One contribution at a time.</i>
-</p>
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-src="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake.svg"
-width="96%"
-alt="GitHub contribution snake"
-/>
-
-</picture>
-
-</div>
-
-<br><br>
-
----
+Hands-on public laboratories documenting protocols, hardware, and web engineering:
 
 <table width="100%">
 <tr>
 
-<td width="62%" valign="middle">
+<td width="50%" align="center" valign="top">
 
-<p>
-<sub>03 / FINAL THOUGHT · 最後の言葉</sub>
-</p>
-
-<h1>Think deeply.<br>Build simply.</h1>
-
-<p>
-Good software is not only about writing more code.
-It is about understanding the problem well enough
-to know what code actually needs to exist.
-</p>
-
-<p>
-<b>Understand → Structure → Build → Refine</b>
-</p>
+<a href="https://github.com/faizulmushofa/native-backend">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=native-backend&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="native-backend" 
+  />
+</a>
 
 </td>
 
-<td width="38%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
-<img
-src="https://media.tenor.com/1Y_MBFQ3Fw4AAAAC/gol-d-roger.gif"
-width="230"
-alt="Animated anime scene"
-/>
+<a href="https://github.com/faizulmushofa/iot-basics">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=iot-basics&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="iot-basics" 
+  />
+</a>
 
-<br><br>
+</td>
 
-<sub>次の一歩 · The next step</sub>
+</tr>
+<tr>
+
+<td colspan="2" align="center" valign="top">
+
+<br>
+
+<a href="https://github.com/faizulmushofa/web-programing-practicum">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=web-programing-practicum&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="web-programing-practicum" 
+  />
+</a>
 
 </td>
 
 </tr>
 </table>
 
-<br><br>
+---
+
+### 🛠 Tech Arsenal
 
 <div align="center">
 
-<h2>Thanks for stopping by.</h2>
+<p><b>Core Backend & Systems</b></p>
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,c&theme=light" alt="Backend Skills" />
 
-<p>
-<sub>見てくれてありがとう。</sub>
-</p>
+<br><br>
 
-<br>
+<p><b>Databases, Cloud & Infrastructure</b></p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,linux,git,githubactions,cloudflare&theme=light" alt="DevOps & Databases" />
+
+<br><br>
+
+<p><b>Web Frontend & IoT Hardware</b></p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,arduino&theme=light" alt="Frontend & Hardware" />
+
+</div>
+
+---
+
+### 📊 Live Activity & Code Pulse
+
+<div align="center">
 
 <a href="https://github.com/faizulmushofa">
-
-<img
-src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-00658D?style=for-the-badge&logo=github&logoColor=white"
-alt="Explore GitHub"
-/>
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizulmushofa&layout=compact&bg_color=ffffff&title_color=0f172a&text_color=475569&border_color=cbd5e1" 
+    alt="Top Languages"
+  />
+</a>
+&nbsp;
+<a href="https://github.com/faizulmushofa">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=faizulmushofa&show_icons=true&bg_color=ffffff&title_color=0f172a&icon_color=0284c7&text_color=475569&border_color=cbd5e1" 
+    alt="Faizul GitHub Stats"
+  />
 </a>
 
 <br><br>
 
-<sub>Animated GIFs via Tenor · Hero GIF via GIPHY</sub>
+<h4>Activity Wave</h4>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=faizulmushofa&bg_color=ffffff&color=0284c7&line=0284c7&point=0f172a&area=true&hide_border=false" 
+  width="100%" 
+  alt="Activity Graph" 
+/>
+
+<br><br>
+
+<h4>Contribution Grid</h4>
+
+<img
+  src="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake.svg"
+  width="100%"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img 
+  src="https://media.tenor.com/1Y_MBFQ3Fw4AAAAC/gol-d-roger.gif" 
+  width="240" 
+  style="border-radius: 8px;"
+  alt="Gol D. Roger" 
+/>
+
+<br><br>
+
+<p>
+<sub><i>"My treasure? If you want it, you can have it. Find it! I left everything this world has to offer in one place."</i></sub>
+</p>
+
+<a href="mailto:faizulmushofa1@gmail.com">
+  <img src="https://img.shields.io/badge/Den%20Den%20Mushi-faizulmushofa1@gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/faizulmushofa">
+  <img src="https://img.shields.io/badge/Bounty%20Board-faizulmushofa-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 <br><br>
 
