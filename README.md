@@ -65,7 +65,7 @@
 
 <td width="50%" align="center" valign="top">
 
-<p><b>Milestone</b>: <img src="https://progress-bar.xyz/60/" alt="60%" valign="middle" /></p>
+<p><b>Milestone</b>: <img src="https://progress-bar.xyz/40/" alt="40%" valign="middle" /></p>
 
 <a href="https://github.com/faizulmushofa/spring-boot-leaderboard">
   <img 
@@ -78,7 +78,7 @@
 
 <td width="50%" align="center" valign="top">
 
-<p><b>Milestone</b>: <img src="https://progress-bar.xyz/50/" alt="50%" valign="middle" /></p>
+<p><b>Milestone</b>: <img src="https://progress-bar.xyz/20/" alt="20%" valign="middle" /></p>
 
 <a href="https://github.com/faizulmushofa/mamori-app">
   <img 
