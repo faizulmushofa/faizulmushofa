@@ -3,452 +3,168 @@
 <br>
 
 <p>
-<sub>システム思考&nbsp;&nbsp;·&nbsp;&nbsp;SYSTEM THINKING</sub>
+<sub>ENGINEERING · SYSTEMS · CURIOSITY</sub>
 </p>
 
-<h1>Faizul</h1>
+# Hi, I'm Faizul 👋
 
 <p>
-<b>Backend Developer · Software Engineering Student</b>
+<b>Software engineering student exploring the layers between hardware, web, and robust backend systems.</b>
 </p>
 
 <p>
-<i>Understanding the system before writing the code.</i>
+<i>Learning by building, breaking, and understanding how data flows end-to-end.</i>
 </p>
 
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2600&pause=850&color=00658D&center=true&vCenter=true&width=720&lines=Software+Engineering+Student;Backend+Developer+in+progress;Java+%2B+Spring+Boot;Thinking+in+systems;Building+with+curiosity"
-alt="Typing animation"
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=0284C7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend+exploration+with+Java+%26+Spring;Connecting+sensors+to+cloud+via+IoT;Writing+clean%2C+event-driven+services"
+  alt="Typing headline"
 />
 
 <br><br>
 
-<table width="80%">
-<tr>
-
-<td align="center">
-
-<sub>01</sub>
-
-<h3>THINK</h3>
-
-<small>Understand the problem</small>
-
-</td>
-
-<td align="center">
-
-<sub>02</sub>
-
-<h3>STRUCTURE</h3>
-
-<small>Map the complexity</small>
-
-</td>
-
-<td align="center">
-
-<sub>03</sub>
-
-<h3>BUILD</h3>
-
-<small>Turn ideas into systems</small>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p>
-考える&nbsp;&nbsp;·&nbsp;&nbsp;設計する&nbsp;&nbsp;·&nbsp;&nbsp;作る
-</p>
-
 </div>
 
-<br>
+---
 
-<table width="100%">
-<tr>
+### ☕ About Me
 
-<td width="58%" valign="middle">
+I enjoy understanding how software works beneath the surface — how services talk to each other, how protocols work without framework magic, and how physical devices feed telemetry into the cloud. 
 
-<p>
-<sub>01 / PROFILE</sub>
-</p>
+My primary playground is **Java and Spring Boot** because it enforces structural discipline and clean architecture. Alongside backends, I frequently explore **IoT systems** (microcontrollers, sensors, MQTT) and **web development** (TypeScript, React, Next.js) to build solutions that connect the physical world to reliable servers.
 
-<h1>Hi, I'm Faizul.</h1>
+---
 
-<p>
-I really enjoy understanding how things work — how systems communicate with each other, how data moves and gets processed, how services are built to operate and remain reliable under extreme conditions, and why a system is designed the way it is.
-</p>
+### 🔨 Currently Building
 
-<p>
-My main environment is <b>Java + Spring Boot</b>, because both have taught me how to organize code in a clean, structured, and disciplined way. I also work with <b>FastAPI</b> and <b>TypeScript</b>, using each of them when they fit the problem and the system I'm building.
-</p>
+Projects actively in development with current milestones:
 
-<p>
-I also like combining <b>AI with software systems</b> to create smarter applications, using it where it can genuinely improve the capabilities of the system rather than simply adding AI for the sake of it.
-</p>
+| Project | Description & Stack | Progress |
+| :--- | :--- | :--- |
+| **[spring-boot-leaderboard](https://github.com/faizulmushofa/spring-boot-leaderboard)** | High-performance real-time gaming leaderboard system built with Spring Boot Reactive. | `[██████░░░░]` **60%** |
+| **[mamori-app](https://github.com/faizulmushofa/mamori-app)** | Location-based campus hazard reporting and disaster preparedness platform. *(TypeScript)* | `[█████░░░░░]` **50%** |
 
-<br>
+---
 
-<table width="100%">
-<tr>
+### 🚀 Shipped & Completed
 
-<td width="50%" valign="top">
+Functional projects that have reached production or release state:
 
-<sub>ROLE</sub>
+| Project | Highlights & Architecture | Status |
+| :--- | :--- | :--- |
+| **[vps-personal-BE](https://github.com/faizulmushofa/vps-personal-BE)** | Reactive private cloud storage powered by Spring Boot WebFlux, gRPC streaming, and Google Gemini AI document summarization. | `[██████████]` **Done** |
+| **[isekai-skill-engine-backend](https://github.com/faizulmushofa/isekai-skill-engine-backend)** | Event-driven processing engine converting Git repository activity into structured AI model inputs. | `[██████████]` **Done** |
+| **[kamus-fx](https://github.com/faizulmushofa/kamus-fx)** | Desktop English-Indonesian dictionary (JavaFX & SQLite) built on MVC with a custom reflection-based DI container. | `[██████████]` **Done** |
+| **[atlas-launcher](https://github.com/faizulmushofa/atlas-launcher)** | Cross-platform spotlight-like desktop launcher for quick file search and app execution, written in C. | `[██████████]` **Done** |
 
-<h3>Backend Developer</h3>
+---
 
-</td>
+### 📚 You can see my learning at
 
-<td width="50%" valign="top">
+Dedicated public repositories documenting hands-on experiments, fundamentals, and notes:
 
-<sub>MINDSET</sub>
+<div align="center">
 
-<h3>System Thinker</h3>
-
-</td>
-
-</tr>
-</table>
-
-</td>
-
-<td width="42%" align="center" valign="middle">
-
-<a href="https://giphy.com/gifs/meme-konosuba-kono-subarashi-sekai-ni-shukufuku-wo-7AfTSxCfNaehyIJJNb">
-
-<img
-src="https://media1.giphy.com/media/7AfTSxCfNaehyIJJNb/giphy.gif"
-width="285"
-alt="Megumin from KonoSuba"
-/>
-
+<a href="https://github.com/faizulmushofa/native-backend">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=native-backend&theme=clean-white&border_color=e2e8f0&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="native-backend"
+  />
+</a>
+&nbsp;
+<a href="https://github.com/faizulmushofa/iot-basics">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=iot-basics&theme=clean-white&border_color=e2e8f0&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="iot-basics"
+  />
 </a>
 
 <br><br>
 
-<sub>探索 · Explore</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://img.shields.io/badge/FOCUS-BACKEND-00658D?style=flat-square&labelColor=EAF8FF"
-alt="Backend"
-/>
-
-<img
-src="https://img.shields.io/badge/MAIN-JAVA-00AEEF?style=flat-square&labelColor=EAF8FF"
-alt="Java"
-/>
-
-<img
-src="https://img.shields.io/badge/MINDSET-SYSTEMS-C39F27?style=flat-square&labelColor=FFF9E5"
-alt="Systems"
-/>
+<a href="https://github.com/faizulmushofa/web-programing-practicum">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=web-programing-practicum&theme=clean-white&border_color=e2e8f0&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="web-programing-practicum"
+  />
+</a>
 
 </div>
-
-<br><br>
 
 ---
 
+### 📊 Live GitHub & Language Stats
+
+Real-time breakdown of technologies and code frequency across all repositories:
+
 <div align="center">
 
-<h2>Technology <sub>｜ 技術</sub></h2>
-
-<p>
-<i>Tools are instruments. Understanding is the real skill.</i>
-</p>
-
-<br>
-
-<img
-src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,nestjs,typescript,react,nextjs,postgres,mysql,sqlite,docker,linux,git,github,githubactions,cloudflare&perline=9"
-alt="Technology stack"
-/>
-
-</div>
+<a href="https://github.com/faizulmushofa">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizulmushofa&layout=compact&theme=clean-white&border_color=e2e8f0&title_color=0f172a&text_color=475569&hide_border=false" 
+    alt="Top Languages"
+  />
+</a>
+&nbsp;
+<a href="https://github.com/faizulmushofa">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=faizulmushofa&show_icons=true&theme=clean-white&border_color=e2e8f0&title_color=0f172a&icon_color=0284c7&text_color=475569&rank_icon=github" 
+    alt="Faizul GitHub Stats"
+  />
+</a>
 
 <br><br>
 
----
-
-<div align="center">
-
-<h2>How I Think <sub>｜ 思考</sub></h2>
-
 <p>
-<i>The process matters as much as the implementation.</i>
-</p>
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-<h1><font color="#00AEEF">01</font></h1>
-
-<h3>Understand</h3>
-
-</div>
-
-<p>
-Start with the problem.
-Understand requirements, constraints,
-data and relationships before writing code.
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-<h1><font color="#00AEEF">02</font></h1>
-
-<h3>Structure</h3>
-
-</div>
-
-<p>
-Break complexity into smaller pieces:
-services, responsibilities, boundaries,
-dependencies and flows.
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-<h1><font color="#C39F27">03</font></h1>
-
-<h3>Build</h3>
-
-</div>
-
-<p>
-Turn the model into software,
-then refine it when reality proves
-some assumptions wrong.
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://media.tenor.com/jhwRDQj29pcAAAAC/haikyuu-anime.gif"
-width="500"
-alt="Animated anime scene"
-/>
-
-<br><br>
-
-<sub>挑戦 · Keep experimenting</sub>
-
-</div>
-
-<br><br>
-
----
-
-<table width="100%">
-<tr>
-
-<td width="60%" valign="top">
-
-<p>
-<sub>02 / CURRENT PATH · 現在地</sub>
-</p>
-
-<h2>You can see my learning at</h2>
-
-<br>
-
-<table width="100%">
-
-<tr>
-<td><a href="https://github.com/faizulmushofa/web-programing-practicum"><b>Web Programming Practicum</b></a></td>
-<td align="right"><font color="#00658D">LEARNING</font></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/faizulmushofa/iot-basics"><b>IoT Basics</b></a></td>
-<td align="right"><font color="#00658D">LEARNING</font></td>
-</tr>
-
-</table>
-
-</td>
-
-<td width="40%" align="center" valign="middle">
-
-<img
-src="https://media.tenor.com/aLuM4E3ah4AAAAAC/anime-gif-anime.gif"
-width="245"
-alt="Animated anime atmosphere"
-/>
-
-<br><br>
-
-<sub>旅 · The journey continues</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br><br>
-
----
-
-<div align="center">
-
-<h2>GitHub Activity <sub>｜ 軌跡</sub></h2>
-
-<p>
-<i>A visual trace of experiments, learning and contributions.</i>
-</p>
-
-<br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=faizulmushofa&bg_color=ffffff&color=00658D&line=00AEEF&point=C39F27&area=true&hide_border=true&custom_title=Faizul%27s%20Development%20Activity"
-width="96%"
-alt="GitHub activity"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<p>
-<sub>CONTRIBUTION TRAIL · 軌跡</sub>
-</p>
-
-<p>
-<i>One contribution at a time.</i>
+<sub>CONTRIBUTION TRAIL</sub>
 </p>
 
 <picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-src="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake.svg"
-width="96%"
-alt="GitHub contribution snake"
-/>
-
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake.svg"
+    width="96%"
+    alt="GitHub contribution snake"
+  />
 </picture>
 
 </div>
 
-<br><br>
+---
+
+### 🛠 Tech Arsenal
+
+```yaml
+Backend & Systems : Java (Spring Boot, WebFlux), Python (FastAPI), Node.js, C
+IoT & Hardware    : ESP32, Arduino, MQTT, Sensors & Telemetry
+Database & Storage: PostgreSQL, MySQL, SQLite, gRPC Stream
+Frontend & Web    : TypeScript, JavaScript, React, Next.js, HTML5/CSS3
+DevOps & Tooling  : Docker, Linux, Git, GitHub Actions, Cloudflare
+```
 
 ---
 
-<table width="100%">
-<tr>
-
-<td width="62%" valign="middle">
-
-<p>
-<sub>03 / FINAL THOUGHT · 最後の言葉</sub>
-</p>
-
-<h1>Think deeply.<br>Build simply.</h1>
-
-<p>
-Good software is not only about writing more code.
-It is about understanding the problem well enough
-to know what code actually needs to exist.
-</p>
-
-<p>
-<b>Understand → Structure → Build → Refine</b>
-</p>
-
-</td>
-
-<td width="38%" align="center" valign="middle">
-
-<img
-src="https://media.tenor.com/1Y_MBFQ3Fw4AAAAC/gol-d-roger.gif"
-width="230"
-alt="Animated anime scene"
-/>
-
-<br><br>
-
-<sub>次の一歩 · The next step</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br><br>
-
 <div align="center">
 
-<h2>Thanks for stopping by.</h2>
-
 <p>
-<sub>見てくれてありがとう。</sub>
+<sub>Open to discussions on backend architecture, IoT experiments, and collaborative projects.</sub>
 </p>
 
-<br>
-
-<a href="https://github.com/faizulmushofa">
-
-<img
-src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-00658D?style=for-the-badge&logo=github&logoColor=white"
-alt="Explore GitHub"
-/>
-
+<a href="mailto:faizulmushofa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-faizulmushofa-0284C7?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-<br><br>
-
-<sub>Animated GIFs via Tenor · Hero GIF via GIPHY</sub>
+&nbsp;
+<a href="https://github.com/faizulmushofa">
+  <img src="https://img.shields.io/badge/GitHub-faizulmushofa-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 <br><br>
 
