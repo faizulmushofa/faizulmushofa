@@ -258,16 +258,6 @@ Hands-on public laboratories documenting protocols, hardware, and web engineerin
   alt="Activity Graph" 
 />
 
-<br><br>
-
-<h4>Contribution Grid</h4>
-
-<img
-  src="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake.svg"
-  width="100%"
-  alt="GitHub Contribution Snake"
-/>
-
 </div>
 
 ---
