@@ -63,33 +63,29 @@
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🏆 [spring-boot-leaderboard](https://github.com/faizulmushofa/spring-boot-leaderboard)
-> High-performance real-time gaming leaderboard engine built for high throughput.
+<p><b>Milestone</b>: <img src="https://geps.dev/progress/60" alt="60%" valign="middle" /></p>
 
-* **Stack**: `Spring Boot Reactive` · `Java 21` · `Redis/WebFlux`
-* **Focus**: Low-latency score ingestion & live ranking updates.
-
-<p align="right">
-  <img src="https://img.shields.io/badge/Milestone-60%25-0284C7?style=flat-square" alt="60%" />
-  <code>[██████░░░░]</code>
-</p>
+<a href="https://github.com/faizulmushofa/spring-boot-leaderboard">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=spring-boot-leaderboard&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="spring-boot-leaderboard" 
+  />
+</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🚨 [mamori-app](https://github.com/faizulmushofa/mamori-app)
-> Location-based campus hazard reporting & disaster preparedness telemetry platform.
+<p><b>Milestone</b>: <img src="https://geps.dev/progress/50" alt="50%" valign="middle" /></p>
 
-* **Stack**: `TypeScript` · `Node.js` · `Mobile / Geolocation`
-* **Focus**: Real-time incident verification & response tracking.
-
-<p align="right">
-  <img src="https://img.shields.io/badge/Milestone-50%25-F59E0B?style=flat-square" alt="50%" />
-  <code>[█████░░░░░]</code>
-</p>
+<a href="https://github.com/faizulmushofa/mamori-app">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=mamori-app&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="mamori-app" 
+  />
+</a>
 
 </td>
 
@@ -103,50 +99,58 @@
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### ☁️ [vps-personal-BE](https://github.com/faizulmushofa/vps-personal-BE)
-> Reactive private cloud storage with chunked streaming and AI document summarization.
+<p><b>Status</b>: <img src="https://geps.dev/progress/100" alt="100%" valign="middle" /></p>
 
-* **Core**: `Spring Boot WebFlux` · `gRPC` · `Google Gemini AI`
-* **Key Feature**: Isolated VPS resource storage with high-speed gRPC stream.
-* **Status**: <img src="https://img.shields.io/badge/Status-Completed-10B981?style=flat-square" /> `[██████████]`
+<a href="https://github.com/faizulmushofa/vps-personal-BE">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=vps-personal-BE&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="vps-personal-BE" 
+  />
+</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### ⚡ [isekai-skill-engine-backend](https://github.com/faizulmushofa/isekai-skill-engine-backend)
-> Event-driven pipeline converting Git activity into structured training data for AI models.
+<p><b>Status</b>: <img src="https://geps.dev/progress/100" alt="100%" valign="middle" /></p>
 
-* **Core**: `TypeScript` · `Event-Driven Architecture` · `Git Hook Pipeline`
-* **Key Feature**: Automated event parsing for developer activity analytics.
-* **Status**: <img src="https://img.shields.io/badge/Status-Completed-10B981?style=flat-square" /> `[██████████]`
+<a href="https://github.com/faizulmushofa/isekai-skill-engine-backend">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=isekai-skill-engine-backend&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="isekai-skill-engine-backend" 
+  />
+</a>
 
 </td>
 
 </tr>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 📖 [kamus-fx](https://github.com/faizulmushofa/kamus-fx)
-> Desktop dictionary (JavaFX & SQLite) powered by an in-house reflection-based DI container.
+<p><b>Status</b>: <img src="https://geps.dev/progress/100" alt="100%" valign="middle" /></p>
 
-* **Core**: `JavaFX` · `SQLite` · `Custom Reflection DI (MiniContainer)`
-* **Key Feature**: Fast O(1) word lookup with clean decoupled MVC pattern.
-* **Status**: <img src="https://img.shields.io/badge/Status-Completed-10B981?style=flat-square" /> `[██████████]`
+<a href="https://github.com/faizulmushofa/kamus-fx">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=kamus-fx&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="kamus-fx" 
+  />
+</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🎯 [atlas-launcher](https://github.com/faizulmushofa/atlas-launcher)
-> Low-latency cross-platform spotlight search launcher written in pure C.
+<p><b>Status</b>: <img src="https://geps.dev/progress/100" alt="100%" valign="middle" /></p>
 
-* **Core**: `C` · `OS System Calls` · `Zero-Overhead Memory`
-* **Key Feature**: Instant application lookup and script launcher without bloating RAM.
-* **Status**: <img src="https://img.shields.io/badge/Status-Completed-10B981?style=flat-square" /> `[██████████]`
+<a href="https://github.com/faizulmushofa/atlas-launcher">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=atlas-launcher&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="atlas-launcher" 
+  />
+</a>
 
 </td>
 
@@ -157,53 +161,46 @@
 
 ### 📚 You can see my learning at
 
-Hands-on public research laboratories documenting protocols, hardware, and web engineering:
+Hands-on public laboratories documenting protocols, hardware, and web engineering:
 
 <table width="100%">
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<div align="center">
-  <h3>📦 <a href="https://github.com/faizulmushofa/native-backend">native-backend</a></h3>
-  <img src="https://img.shields.io/badge/Domain-Network%20Protocols-0284C7?style=flat-square" />
-</div>
-
-<br>
-
-* 🔍 **Focus**: Deconstructing backend mechanics without framework magic.
-* 🛠️ **Topics**: HTTP/TCP socket listeners, RFC protocol parsing, memory buffers, raw concurrency.
-* 🔗 [**Inspect Lab Code →**](https://github.com/faizulmushofa/native-backend)
+<a href="https://github.com/faizulmushofa/native-backend">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=native-backend&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="native-backend" 
+  />
+</a>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<div align="center">
-  <h3>📡 <a href="https://github.com/faizulmushofa/iot-basics">iot-basics</a></h3>
-  <img src="https://img.shields.io/badge/Domain-Embedded%20%26%20IoT-059669?style=flat-square" />
-</div>
-
-<br>
-
-* 🔍 **Focus**: Physical computing and hardware telemetry pipelines.
-* 🛠️ **Topics**: ESP32 microcontrollers, sensor calibration, MQTT broker messaging, cloud relays.
-* 🔗 [**Inspect Lab Code →**](https://github.com/faizulmushofa/iot-basics)
+<a href="https://github.com/faizulmushofa/iot-basics">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=iot-basics&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="iot-basics" 
+  />
+</a>
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+<tr>
 
-<div align="center">
-  <h3>🌐 <a href="https://github.com/faizulmushofa/web-programing-practicum">web-programing-practicum</a></h3>
-  <img src="https://img.shields.io/badge/Domain-Web%20Engineering-D97706?style=flat-square" />
-</div>
+<td colspan="2" align="center" valign="top">
 
 <br>
 
-* 🔍 **Focus**: University practicum assignments & full-stack implementations.
-* 🛠️ **Topics**: Web architectures, REST API contracts, auth lifecycles, frontend-backend glue.
-* 🔗 [**Inspect Lab Code →**](https://github.com/faizulmushofa/web-programing-practicum)
+<a href="https://github.com/faizulmushofa/web-programing-practicum">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=web-programing-practicum&bg_color=ffffff&border_color=cbd5e1&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    alt="web-programing-practicum" 
+  />
+</a>
 
 </td>
 
