@@ -2,24 +2,45 @@
 
 <br>
 
+<img 
+  src="https://media.tenor.com/LXDfG4X1QEkAAAAC/one-piece-luffy.gif" 
+  width="600" 
+  style="border-radius: 12px;"
+  alt="Luffy One Piece Sailing" 
+/>
+
+<br><br>
+
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=180&section=header&text=Faizul%20Mushofa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20IoT%20Explorer%20%7C%20Systems%20Thinker&descSize=16&descAlignY=62&descColor=e0f2fe" width="100%" alt="Header banner" />
+<sub>新世界 · THE GRAND LINE OF SOFTWARE ENGINEERING</sub>
 </p>
 
+# ☠️ FAIZUL MUSHOFA
+
+<p>
+<b>Backend Architect in the Making · IoT Explorer · Systems Engineer</b>
+</p>
+
+<p>
+<i>"Inherited will, the flow of time, and the dreams of engineers — they will never cease."</i>
+</p>
+
+<br>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=0284C7&center=true&vCenter=true&width=680&lines=Java+%2B+Spring+Boot+Ecosystem;Reactive+Microservices+%26+gRPC+Streaming;Connecting+Sensors+to+Cloud+via+IoT;Event-Driven+Architectures;Clean+Code+%E2%80%94+Zero+Framework+Magic+Taken+for+Granted" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=800&color=0284C7&center=true&vCenter=true&width=680&lines=Sailing+the+Grand+Line+of+Backend+Systems;Java+%2B+Spring+Boot+Ecosystem;Reactive+Microservices+%26+gRPC+Pipelines;Bridging+Physical+Sensors+with+Cloud+IoT;Zero+Framework+Magic+%E2%80%94+Deep+Protocol+Mastery" alt="Typing headline" />
 </a>
 
 <br><br>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-0284C7?style=for-the-badge&logo=java&logoColor=white" alt="Backend Focus" />
+  <img src="https://img.shields.io/badge/SHIPWRIGHT-BACKEND%20ARCHITECT-0284C7?style=for-the-badge&logo=java&logoColor=white" alt="Backend Focus" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Stack-Spring%20%2B%20gRPC%20%2B%20AI-0F172A?style=for-the-badge&logo=springboot&logoColor=white" alt="Stack" />
+  <img src="https://img.shields.io/badge/HAKI-SPRING%20%2B%20CONCURRENCY-DC2626?style=for-the-badge&logo=springboot&logoColor=white" alt="Haki" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Hardware-ESP32%20%2F%20MQTT-0284C7?style=for-the-badge&logo=arduino&logoColor=white" alt="Hardware" />
+  <img src="https://img.shields.io/badge/LOG%20POSE-IOT%20%26%20TELEMETRY-059669?style=for-the-badge&logo=arduino&logoColor=white" alt="Log Pose" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Active%20Building-10B981?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/BOUNTY-HIGH%20CONCURRENCY-D97706?style=for-the-badge" alt="Bounty" />
 </p>
 
 <br>
@@ -28,12 +49,12 @@
 
 ---
 
-### ⚡ Snapshot
+### 🗺️ Logbook & Compass
 
-* 🎯 **Specialization**: Designing disciplined backend systems, reactive pipelines, and hardware-to-cloud telemetry.
-* ☕ **Primary Engine**: **Java & Spring Boot** (WebFlux, gRPC, Concurrency) — prioritizing structural clarity over framework shortcuts.
-* 📡 **Beyond Servers**: Bridging physical sensors (**ESP32, MQTT**) with web platforms (**TypeScript, React, Next.js**).
-* 💡 **Core Mantra**: *Understand the network protocol, structure the data model, optimize the bottlenecks, then ship.*
+* ⚓ **The Mission**: Constructing backend architectures that never capsize under heavy load, paired with real-time hardware telemetry.
+* ⚡ **Main Devil Fruit**: **Java & Spring Boot** (WebFlux, gRPC, Concurrency) — prioritizing structural discipline over easy shortcuts.
+* 🧭 **The Compass**: Bridging physical microcontrollers (**ESP32, MQTT**) with web interfaces (**TypeScript, React, Next.js**).
+* 📜 **Pirate Creed**: *Understand the network protocol, structure the data model, optimize the bottlenecks, then sail.*
 
 ---
 
@@ -41,120 +62,94 @@
 
 <table width="100%">
 <tr>
-  <th width="35%" align="left">Repository</th>
-  <th width="45%" align="left">Architecture & Stack</th>
-  <th width="20%" align="center">Milestone</th>
-</tr>
 
-<tr>
-  <td>
-    <a href="https://github.com/faizulmushofa/spring-boot-leaderboard">
-      <b>spring-boot-leaderboard</b>
-    </a>
-  </td>
-  <td>
-    Real-time high-throughput gaming leaderboard engine.<br>
-    <img src="https://img.shields.io/badge/Spring_Boot-Reactive-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/Progress-60%25-0284C7?style=flat-square" alt="60%" /><br>
-    <code>[██████░░░░]</code>
-  </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-  <td>
-    <a href="https://github.com/faizulmushofa/mamori-app">
-      <b>mamori-app</b>
-    </a>
-  </td>
-  <td>
-    Location-based campus hazard reporting & disaster telemetry.<br>
-    <img src="https://img.shields.io/badge/TypeScript-Fullstack-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Mobile-Campus_Safe-10B981?style=flat-square" />
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/Progress-50%25-F59E0B?style=flat-square" alt="50%" /><br>
-    <code>[█████░░░░░]</code>
-  </td>
+### 🏆 [spring-boot-leaderboard](https://github.com/faizulmushofa/spring-boot-leaderboard)
+> High-performance real-time gaming leaderboard engine built for high throughput.
+
+* **Stack**: `Spring Boot Reactive` · `Java 21` · `Redis/WebFlux`
+* **Focus**: Low-latency score ingestion & live ranking updates.
+
+<p align="right">
+  <img src="https://img.shields.io/badge/Milestone-60%25-0284C7?style=flat-square" alt="60%" />
+  <code>[██████░░░░]</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚨 [mamori-app](https://github.com/faizulmushofa/mamori-app)
+> Location-based campus hazard reporting & disaster preparedness telemetry platform.
+
+* **Stack**: `TypeScript` · `Node.js` · `Mobile / Geolocation`
+* **Focus**: Real-time incident verification & response tracking.
+
+<p align="right">
+  <img src="https://img.shields.io/badge/Milestone-50%25-F59E0B?style=flat-square" alt="50%" />
+  <code>[█████░░░░░]</code>
+</p>
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-### 🚀 Shipped & Featured
+### 🚀 Shipped & Conquered
 
 <table width="100%">
 <tr>
-  <th width="35%" align="left">Repository</th>
-  <th width="45%" align="left">Architecture Highlights</th>
-  <th width="20%" align="center">Status</th>
-</tr>
 
-<tr>
-  <td>
-    <a href="https://github.com/faizulmushofa/vps-personal-BE">
-      <b>vps-personal-BE</b>
-    </a>
-  </td>
-  <td>
-    Reactive private cloud storage with chunked streaming, JWT security, and automatic document summarization.<br>
-    <img src="https://img.shields.io/badge/WebFlux-gRPC-6DB33F?style=flat-square&logo=spring" />
-    <img src="https://img.shields.io/badge/AI-Gemini%20API-4285F4?style=flat-square&logo=google" />
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/Status-Completed-10B981?style=flat-square" alt="Done" /><br>
-    <code>[██████████]</code>
-  </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-  <td>
-    <a href="https://github.com/faizulmushofa/isekai-skill-engine-backend">
-      <b>isekai-skill-engine-backend</b>
-    </a>
-  </td>
-  <td>
-    Event-driven engine parsing raw Git activity into structured training inputs for AI models.<br>
-    <img src="https://img.shields.io/badge/TypeScript-Event--Driven-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/Status-Completed-10B981?style=flat-square" alt="Done" /><br>
-    <code>[██████████]</code>
-  </td>
-</tr>
+### ☁️ [vps-personal-BE](https://github.com/faizulmushofa/vps-personal-BE)
+> Reactive private cloud storage with chunked streaming and AI document summarization.
 
-<tr>
-  <td>
-    <a href="https://github.com/faizulmushofa/kamus-fx">
-      <b>kamus-fx</b>
-    </a>
-  </td>
-  <td>
-    Desktop dictionary engine (MVC) featuring a custom reflection-based Dependency Injection container.<br>
-    <img src="https://img.shields.io/badge/JavaFX-SQLite-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/Status-Completed-10B981?style=flat-square" alt="Done" /><br>
-    <code>[██████████]</code>
-  </td>
-</tr>
+* **Core**: `Spring Boot WebFlux` · `gRPC` · `Google Gemini AI`
+* **Key Feature**: Isolated VPS resource storage with high-speed gRPC stream.
+* **Status**: <img src="https://img.shields.io/badge/Status-Completed-10B981?style=flat-square" /> `[██████████]`
 
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ [isekai-skill-engine-backend](https://github.com/faizulmushofa/isekai-skill-engine-backend)
+> Event-driven pipeline converting Git activity into structured training data for AI models.
+
+* **Core**: `TypeScript` · `Event-Driven Architecture` · `Git Hook Pipeline`
+* **Key Feature**: Automated event parsing for developer activity analytics.
+* **Status**: <img src="https://img.shields.io/badge/Status-Completed-10B981?style=flat-square" /> `[██████████]`
+
+</td>
+
+</tr>
 <tr>
-  <td>
-    <a href="https://github.com/faizulmushofa/atlas-launcher">
-      <b>atlas-launcher</b>
-    </a>
-  </td>
-  <td>
-    Lightweight, low-latency cross-platform spotlight search launcher built in pure C.<br>
-    <img src="https://img.shields.io/badge/C-Low--Level-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/Status-Completed-10B981?style=flat-square" alt="Done" /><br>
-    <code>[██████████]</code>
-  </td>
+
+<td width="50%" valign="top">
+
+### 📖 [kamus-fx](https://github.com/faizulmushofa/kamus-fx)
+> Desktop dictionary (JavaFX & SQLite) powered by an in-house reflection-based DI container.
+
+* **Core**: `JavaFX` · `SQLite` · `Custom Reflection DI (MiniContainer)`
+* **Key Feature**: Fast O(1) word lookup with clean decoupled MVC pattern.
+* **Status**: <img src="https://img.shields.io/badge/Status-Completed-10B981?style=flat-square" /> `[██████████]`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 [atlas-launcher](https://github.com/faizulmushofa/atlas-launcher)
+> Low-latency cross-platform spotlight search launcher written in pure C.
+
+* **Core**: `C` · `OS System Calls` · `Zero-Overhead Memory`
+* **Key Feature**: Instant application lookup and script launcher without bloating RAM.
+* **Status**: <img src="https://img.shields.io/badge/Status-Completed-10B981?style=flat-square" /> `[██████████]`
+
+</td>
+
 </tr>
 </table>
 
@@ -162,25 +157,56 @@
 
 ### 📚 You can see my learning at
 
-Hands-on public laboratories documenting protocols, hardware, and web implementations:
+Hands-on public research laboratories documenting protocols, hardware, and web engineering:
 
 <table width="100%">
 <tr>
-  <td width="33%" valign="top">
-    <h4><a href="https://github.com/faizulmushofa/native-backend">📦 native-backend</a></h4>
-    <p>Exploring raw backend concepts, HTTP/TCP sockets, and protocols from scratch without frameworks.</p>
-    <img src="https://img.shields.io/badge/Focus-Network%20Protocols-0284C7?style=flat-square" />
-  </td>
-  <td width="33%" valign="top">
-    <h4><a href="https://github.com/faizulmushofa/iot-basics">📡 iot-basics</a></h4>
-    <p>Microcontroller experiments, sensor pipelines, and MQTT hardware-to-cloud communication.</p>
-    <img src="https://img.shields.io/badge/Focus-ESP32%20%2F%20Telemetry-0284C7?style=flat-square" />
-  </td>
-  <td width="33%" valign="top">
-    <h4><a href="https://github.com/faizulmushofa/web-programing-practicum">🌐 web-programing-practicum</a></h4>
-    <p>Comprehensive university laboratory projects covering web architecture, APIs, and modern stacks.</p>
-    <img src="https://img.shields.io/badge/Focus-Fullstack%20Web-0284C7?style=flat-square" />
-  </td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+  <h3>📦 <a href="https://github.com/faizulmushofa/native-backend">native-backend</a></h3>
+  <img src="https://img.shields.io/badge/Domain-Network%20Protocols-0284C7?style=flat-square" />
+</div>
+
+<br>
+
+* 🔍 **Focus**: Deconstructing backend mechanics without framework magic.
+* 🛠️ **Topics**: HTTP/TCP socket listeners, RFC protocol parsing, memory buffers, raw concurrency.
+* 🔗 [**Inspect Lab Code →**](https://github.com/faizulmushofa/native-backend)
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+  <h3>📡 <a href="https://github.com/faizulmushofa/iot-basics">iot-basics</a></h3>
+  <img src="https://img.shields.io/badge/Domain-Embedded%20%26%20IoT-059669?style=flat-square" />
+</div>
+
+<br>
+
+* 🔍 **Focus**: Physical computing and hardware telemetry pipelines.
+* 🛠️ **Topics**: ESP32 microcontrollers, sensor calibration, MQTT broker messaging, cloud relays.
+* 🔗 [**Inspect Lab Code →**](https://github.com/faizulmushofa/iot-basics)
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+  <h3>🌐 <a href="https://github.com/faizulmushofa/web-programing-practicum">web-programing-practicum</a></h3>
+  <img src="https://img.shields.io/badge/Domain-Web%20Engineering-D97706?style=flat-square" />
+</div>
+
+<br>
+
+* 🔍 **Focus**: University practicum assignments & full-stack implementations.
+* 🛠️ **Topics**: Web architectures, REST API contracts, auth lifecycles, frontend-backend glue.
+* 🔗 [**Inspect Lab Code →**](https://github.com/faizulmushofa/web-programing-practicum)
+
+</td>
+
 </tr>
 </table>
 
@@ -195,12 +221,12 @@ Hands-on public laboratories documenting protocols, hardware, and web implementa
 
 <br><br>
 
-<p><b>Databases, Cloud & DevOps</b></p>
+<p><b>Databases, Cloud & Infrastructure</b></p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,linux,git,githubactions,cloudflare&theme=light" alt="DevOps & Databases" />
 
 <br><br>
 
-<p><b>Web Frontend & IoT</b></p>
+<p><b>Web Frontend & IoT Hardware</b></p>
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,arduino&theme=light" alt="Frontend & Hardware" />
 
 </div>
@@ -251,16 +277,25 @@ Hands-on public laboratories documenting protocols, hardware, and web implementa
 
 <div align="center">
 
+<img 
+  src="https://media.tenor.com/1Y_MBFQ3Fw4AAAAC/gol-d-roger.gif" 
+  width="240" 
+  style="border-radius: 8px;"
+  alt="Gol D. Roger" 
+/>
+
+<br><br>
+
 <p>
-<sub>Always open to discussions about backend architecture, IoT experiments, or engineering opportunities.</sub>
+<sub><i>"My treasure? If you want it, you can have it. Find it! I left everything this world has to offer in one place."</i></sub>
 </p>
 
 <a href="mailto:faizulmushofa1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-faizulmushofa1@gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Den%20Den%20Mushi-faizulmushofa1@gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
 <a href="https://github.com/faizulmushofa">
-  <img src="https://img.shields.io/badge/GitHub-faizulmushofa-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Bounty%20Board-faizulmushofa-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br><br>
