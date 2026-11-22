@@ -65,7 +65,7 @@
 
 <td width="50%" align="center" valign="top">
 
-<p><b>Milestone</b>: <img src="https://geps.dev/progress/60" alt="60%" valign="middle" /></p>
+<p><b>Milestone</b>: <img src="https://progress-bar.xyz/60/" alt="60%" valign="middle" /></p>
 
 <a href="https://github.com/faizulmushofa/spring-boot-leaderboard">
   <img 
@@ -78,7 +78,7 @@
 
 <td width="50%" align="center" valign="top">
 
-<p><b>Milestone</b>: <img src="https://geps.dev/progress/50" alt="50%" valign="middle" /></p>
+<p><b>Milestone</b>: <img src="https://progress-bar.xyz/50/" alt="50%" valign="middle" /></p>
 
 <a href="https://github.com/faizulmushofa/mamori-app">
   <img 
@@ -101,7 +101,7 @@
 
 <td width="50%" align="center" valign="top">
 
-<p><b>Status</b>: <img src="https://geps.dev/progress/100" alt="100%" valign="middle" /></p>
+<p><b>Status</b>: <img src="https://progress-bar.xyz/100/" alt="100%" valign="middle" /></p>
 
 <a href="https://github.com/faizulmushofa/vps-personal-BE">
   <img 
@@ -114,7 +114,7 @@
 
 <td width="50%" align="center" valign="top">
 
-<p><b>Status</b>: <img src="https://geps.dev/progress/100" alt="100%" valign="middle" /></p>
+<p><b>Status</b>: <img src="https://progress-bar.xyz/100/" alt="100%" valign="middle" /></p>
 
 <a href="https://github.com/faizulmushofa/isekai-skill-engine-backend">
   <img 
@@ -130,7 +130,7 @@
 
 <td width="50%" align="center" valign="top">
 
-<p><b>Status</b>: <img src="https://geps.dev/progress/100" alt="100%" valign="middle" /></p>
+<p><b>Status</b>: <img src="https://progress-bar.xyz/100/" alt="100%" valign="middle" /></p>
 
 <a href="https://github.com/faizulmushofa/kamus-fx">
   <img 
@@ -143,7 +143,7 @@
 
 <td width="50%" align="center" valign="top">
 
-<p><b>Status</b>: <img src="https://geps.dev/progress/100" alt="100%" valign="middle" /></p>
+<p><b>Status</b>: <img src="https://progress-bar.xyz/100/" alt="100%" valign="middle" /></p>
 
 <a href="https://github.com/faizulmushofa/atlas-launcher">
   <img 
