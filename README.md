@@ -288,35 +288,20 @@ alt="Animated anime scene"
 <sub>02 / CURRENT PATH · 現在地</sub>
 </p>
 
-<h2>Where I'm investing my time</h2>
+<h2>You can see my learning at</h2>
 
 <br>
 
 <table width="100%">
 
 <tr>
-<td><b>Java & Spring Boot</b></td>
-<td align="right"><font color="#00658D">PRIMARY</font></td>
-</tr>
-
-<tr>
-<td><b>System Design</b></td>
+<td><a href="https://github.com/faizulmushofa/web-programing-practicum"><b>Web Programming Practicum</b></a></td>
 <td align="right"><font color="#00658D">LEARNING</font></td>
 </tr>
 
 <tr>
-<td><b>Application Security</b></td>
+<td><a href="https://github.com/faizulmushofa/iot-basics"><b>IoT Basics</b></a></td>
 <td align="right"><font color="#00658D">LEARNING</font></td>
-</tr>
-
-<tr>
-<td><b>Docker & CI/CD</b></td>
-<td align="right"><font color="#00658D">LEARNING</font></td>
-</tr>
-
-<tr>
-<td><b>Distributed Systems</b></td>
-<td align="right"><font color="#C39F27">EXPLORING</font></td>
 </tr>
 
 </table>
