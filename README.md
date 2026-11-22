@@ -69,14 +69,14 @@ Dedicated public repositories documenting hands-on experiments, fundamentals, an
 
 <a href="https://github.com/faizulmushofa/native-backend">
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=native-backend&theme=clean-white&border_color=e2e8f0&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=native-backend&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=0284c7&border_color=cbd5e1" 
     alt="native-backend"
   />
 </a>
 &nbsp;
 <a href="https://github.com/faizulmushofa/iot-basics">
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=iot-basics&theme=clean-white&border_color=e2e8f0&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=iot-basics&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=0284c7&border_color=cbd5e1" 
     alt="iot-basics"
   />
 </a>
@@ -85,7 +85,7 @@ Dedicated public repositories documenting hands-on experiments, fundamentals, an
 
 <a href="https://github.com/faizulmushofa/web-programing-practicum">
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=web-programing-practicum&theme=clean-white&border_color=e2e8f0&title_color=0f172a&icon_color=0284c7&text_color=475569" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizulmushofa&repo=web-programing-practicum&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=0284c7&text_color=475569&border_color=cbd5e1" 
     alt="web-programing-practicum"
   />
 </a>
@@ -102,14 +102,14 @@ Real-time breakdown of technologies and code frequency across all repositories:
 
 <a href="https://github.com/faizulmushofa">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizulmushofa&layout=compact&theme=clean-white&border_color=e2e8f0&title_color=0f172a&text_color=475569&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizulmushofa&layout=compact&bg_color=ffffff&title_color=0f172a&text_color=475569&border_color=cbd5e1" 
     alt="Top Languages"
   />
 </a>
 &nbsp;
 <a href="https://github.com/faizulmushofa">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=faizulmushofa&show_icons=true&theme=clean-white&border_color=e2e8f0&title_color=0f172a&icon_color=0284c7&text_color=475569&rank_icon=github" 
+    src="https://github-readme-stats.vercel.app/api?username=faizulmushofa&show_icons=true&bg_color=ffffff&title_color=0f172a&icon_color=0284c7&text_color=475569&border_color=cbd5e1" 
     alt="Faizul GitHub Stats"
   />
 </a>
@@ -120,21 +120,11 @@ Real-time breakdown of technologies and code frequency across all repositories:
 <sub>CONTRIBUTION TRAIL</sub>
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake.svg"
-    width="96%"
-    alt="GitHub contribution snake"
-  />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/faizulmushofa/faizulmushofa/output/github-contribution-grid-snake.svg"
+  width="100%"
+  alt="GitHub contribution snake"
+/>
 
 </div>
 
